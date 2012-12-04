@@ -1,3 +1,5 @@
-# files
-*.pdf
+# dirs
 .idea/
+_site
+
+# files
